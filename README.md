@@ -61,10 +61,3 @@
 
 
 
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asakuraku000&theme=react-dark&bg_color=20232a&hide_border=true" />
-</div>
